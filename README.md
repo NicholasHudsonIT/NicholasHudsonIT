@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholas! <br/><a href="https://www.linkedin.com/in/nicholas-hudson-a7b360151/">IT Professional</a></h1>
+<h1>Hi, I'm Nicholas! <a href="https://www.linkedin.com/in/nicholas-hudson-a7b360151/">IT Professional</a></h1>
 
 <h2> 🖥️ IT Projects:</h2>
 

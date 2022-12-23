@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nicholas! <a href="https://www.linkedin.com/in/nicholas-hudson-a7b360151/">IT Professional</a></h1>
 
 <h2> 🖥️ IT Projects:</h2>
-<br/>How to Setup a Basic Home Lab Running Active Directory
+<br/>Active Directory
 <br/>•<a href="https://github.com/NicholasHudsonIT/Active-Directory-Home-Lab">Active Directory Home Lab</a>
 
 <h2> 📄 Certifications:</h2>

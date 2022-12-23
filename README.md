@@ -2,7 +2,7 @@
 
 <h2> 🖥️ IT Projects:</h2>
 <br/>Active Directory
-<br/>•<a href="https://github.com/NicholasHudsonIT/Active-Directory-Home-Lab">Active Directory Home Lab</a>
+<br/>•<a href="https://github.com/NicholasHudsonIT/Active-Directory-Home-Lab">Active Directory Lab</a>
 
 <h2> 📄 Certifications:</h2>
 <br/>•<a href="https://drive.google.com/file/d/1Q7CfFmsg2BLisAAiR8i74-X9Pw1Q4q6g/view?usp=sharing">Google IT Support Professional</a>

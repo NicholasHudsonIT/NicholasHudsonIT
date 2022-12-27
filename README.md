@@ -3,6 +3,8 @@
 <h2> 🖥️ IT Projects:</h2>
 <br/><b>Active Directory</b>
 <br/>• <a href="https://github.com/NicholasHudsonIT/Active-Directory-Home-Lab">Active Directory Lab</a>
+<br/><b>Active Directory</b>
+<br/>• <a href="https://github.com/NicholasHudsonIT/Building-Intuition-For-DNS-Lab">Building Intuition For DNS Lab</a>
 
 <h2> 📄 Certifications:</h2>
 <br/>• <a href="https://drive.google.com/file/d/1Q7CfFmsg2BLisAAiR8i74-X9Pw1Q4q6g/view?usp=sharing">Google IT Support Professional</a>

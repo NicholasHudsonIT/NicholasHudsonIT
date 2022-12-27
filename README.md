@@ -5,7 +5,7 @@
 <br/>• <a href="https://github.com/NicholasHudsonIT/Active-Directory-Home-Lab">Active Directory Lab</a>
 <br/><b>Building Intuition for DNS</b>
 <br/>• <a href="https://github.com/NicholasHudsonIT/Building-Intuition-For-DNS-Lab">Building Intuition For DNS Lab</a>
-<br/><b>Building Intuition for DNS</b>
+<br/><b>Network File Sharing and User Permissions</b>
 <br/>• <a href="https://github.com/NicholasHudsonIT/Network-File-Sharing-and-Permissions">Network File Sharing and User Permissions</a>
 
 <h2> 📄 Certifications:</h2>

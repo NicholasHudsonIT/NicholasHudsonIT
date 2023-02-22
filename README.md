@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholas! <a href="https://www.linkedin.com/in/nicholas-hudson-a7b360151/">IT Professional</a></h1>
+<h1>Hi, I'm Nicholas! <a href="https://www.linkedin.com/in/nicholas-d-hudson/">IT Professional</a></h1>
 
 <h2> 🖥️ IT Projects:</h2>
 <br/><b>Active Directory</b>
@@ -17,7 +17,7 @@
 [<img align="left" alt="Nicholas Hudson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/nicholas-hudson-a7b360151/
+[linkedin]: https://www.linkedin.com/in/nicholas-d-hudson/
 
 <!--
 

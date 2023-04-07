@@ -8,6 +8,10 @@
 <br/><b>Network File Sharing and User Permissions</b>
 <br/>• <a href="https://github.com/NicholasHudsonIT/Network-File-Sharing-and-Permissions">Network File Sharing and User Permissions</a>
 
+<h3> CyberSecurity Projects</h3>
+<br/><b>Microsoft Azure Sentinel (SIEM)</b>
+<br/>• <a href="https://github.com/NicholasHudsonIT/Azure-Sentinel">Microsoft Azure Sentinel - Live Attack Home Lab</a>
+
 <h2> 📄 Certifications:</h2>
 <br/>• <a href="https://drive.google.com/file/d/1Q7CfFmsg2BLisAAiR8i74-X9Pw1Q4q6g/view?usp=sharing">Google IT Support Professional</a>
 <br/>• <a href="https://drive.google.com/file/d/1ER0vGQ_RcGd8_Pld8xU29nBGlVxseUKp/view?usp=sharing">Qualys Vulnerabiliy Management Detection & Response Professional</a>

@@ -11,6 +11,9 @@
 <h3> CyberSecurity Projects</h3>
 <br/><b>Microsoft Azure Sentinel (SIEM)</b>
 <br/>• <a href="https://github.com/NicholasHudsonIT/Azure-Sentinel">Microsoft Azure Sentinel - Live Attack Home Lab</a>
+<br/><b>File Permissions in Linux</b>
+<br/>• <a href="https://github.com/NicholasHudsonIT/File-Permissions-in-Linux.git">File Permissions in Linux</a>
+
 
 <h2> 📄 Certifications:</h2>
 <br/>• <a href="https://drive.google.com/file/d/1Q7CfFmsg2BLisAAiR8i74-X9Pw1Q4q6g/view?usp=sharing">Google IT Support Professional</a>

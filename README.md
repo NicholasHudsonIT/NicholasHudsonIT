@@ -13,6 +13,9 @@
 <br/>• <a href="https://github.com/NicholasHudsonIT/Azure-Sentinel">Microsoft Azure Sentinel - Live Attack Home Lab</a>
 <br/><b>File Permissions in Linux</b>
 <br/>• <a href="https://github.com/NicholasHudsonIT/File-Permissions-in-Linux.git">File Permissions in Linux</a>
+<br/><b>SQL Queries</b>
+<br/>• <a href="https://github.com/NicholasHudsonIT/Apply-Filters-to-SQL-Queries.git">Apply Filters to SQL Queries</a>
+
 
 
 <h2> 📄 Certifications:</h2>

@@ -22,6 +22,7 @@
 <br/>• <a href="https://drive.google.com/file/d/1MCfS9IenfWcof9CtvIJsWm7n9pCJ_rhe/view?usp=sharing">Google Cybersecurity Professional</a>
 <br/>• <a href="https://drive.google.com/file/d/1ER0vGQ_RcGd8_Pld8xU29nBGlVxseUKp/view?usp=sharing">Qualys Vulnerabiliy Management Detection & Response Professional</a>
 <br/>• <a href="https://drive.google.com/file/d/1GSVRR1vmYLQpX61XKr78VwlpelkFiZxK/view?usp=drivesdk">AWS Security Management & AWS Security Specialist</a>
+<br/>• <a href="https://drive.google.com/file/d/1W0mAIRXWbGmBrsCudrR_2XXoGrk56zLe/view?usp=sharing">Practical Wireless Networks Hacking from Scratch</a>
 
 
 <h2> 🤳 Connect with me:</h2>

@@ -19,7 +19,7 @@
 
 
 <h2> 📄 Certifications:</h2>
-<br/>• <a href="https://drive.google.com/file/d/1MCfS9IenfWcof9CtvIJsWm7n9pCJ_rhe/view?usp=sharing">CompTIA Security+ Certified</a>
+<br/>• <a href="https://drive.google.com/file/d/1imM61CgmQzWE8P53NbhnRZw2faTV3FX5/view?usp=drive_link">CompTIA Security+</a>
 <br/>• <a href="https://drive.google.com/file/d/1MCfS9IenfWcof9CtvIJsWm7n9pCJ_rhe/view?usp=sharing">Google Cybersecurity Professional</a>
 <br/>• <a href="https://drive.google.com/file/d/1ER0vGQ_RcGd8_Pld8xU29nBGlVxseUKp/view?usp=sharing">Qualys Vulnerabiliy Management Detection & Response Professional</a>
 <br/>• <a href="https://drive.google.com/file/d/1GSVRR1vmYLQpX61XKr78VwlpelkFiZxK/view?usp=drivesdk">AWS Security Management & AWS Security Specialist</a>
